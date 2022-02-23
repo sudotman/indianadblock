@@ -10,11 +10,11 @@ This list will block a lot of unnecessary hosts, domains which serve advertiseme
 
 ## Preconfig
 
-Make sure you have an adblocker installed before you use these. Preferred choice is uBlock Origin. <br> [Click here to go to their website](https://ublockorigin.com/)
+Make sure you have an adblocker installed before you use these. Preferred choice is uBlock Origin. <br> [Click here to go to their website](https://ublockorigin.com/){:target="_blank"}
 
 ## Use
 
-You can add this list to yourself using this button — [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/sudotman/indianadblock/master/indiablock.txt&title=India%20Block)<br>Or add it manually using this RAW link — `https://raw.githubusercontent.com/sudotman/indianadblock/master/indiablock.txt`
+You can add this list to yourself using this button — [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/sudotman/indianadblock/master/indiablock.txt&title=India%20Block){:target="_blank"}<br>Or add it manually using this RAW link — `https://raw.githubusercontent.com/sudotman/indianadblock/master/indiablock.txt`
 
 
 Scroll to the end for a detailed guide on how to use it.
@@ -32,7 +32,7 @@ _Make sure only uBlock origin is installed. (Uninstall if any others are install
 
 `Method 1.`
 
-In a couple of clicks you can install the filter using this link - [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/sudotman/indianadblock/master/indiablock.txt&title=India%20Block).
+In a couple of clicks you can install the filter using this link - [subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/sudotman/indianadblock/master/indiablock.txt&title=India%20Block){:target="_blank"}.
 
 After clicking on the link that is located above, a new window will open asking you to confirm the installation. In this window there will be an inscription, in boring bold text, the name of the subscription will be written there, in your case - India Block, and below is a direct link to this filter, to the right of these inscriptions there will be a gray "SUBSCRIBE" button, click it. After clicking the "SUBSCRIBE" button, the India Block filter list will be installed.
 
