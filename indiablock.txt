@@ -1,14 +1,11 @@
-! Title: Fuck Fuckadblock
-! Description: Filters for blocking pop-ups and anti-adblock bypass
-! Author: Bogachenko Vyacheslav
+! Title: IndiaBlock Filter
+! Description: Filters for blocking pop-ups and anti-adblock bypass with focus on the Indian region
+! Author: satyam (inspired by bogachenko)
 ! Expires: 3 hours
-! Homepage: https://github.com/bogachenko/fuckfuckadblock
-! Licence: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/LICENSE.md
-! RAW: https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
-! CDN:
-!	1. https://raw.githack.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
-!	2. https://cdn.statically.io/gh/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
-!	3. https://cdn.jsdelivr.net/gh/bogachenko/fuckfuckadblock/fuckfuckadblock.txt
+! Homepage: https://github.com/sudotman/indianadblock
+! Licence: https://raw.githubusercontent.com/sudotman/indianadblock/master/LICENSE.md
+! RAW: https://raw.githubusercontent.com/sudotman/indianadblock/master/indiablock.txt
+
 
 ###AdBlockDialog
 ###ab--notification-ribbon
@@ -827,3 +824,13 @@ asianclub.*,avhost.xyz,cdn-myhdjav.info,animetw.*,bazavox.com,dutrag.com,embed.*
 bowfile.com##+js(abort-current-inline-script.js, document.getElementById, innerHTML)
 
 atomixhq.*,maxitorrent.com,pctfenix.*,pctmix.com,pctreload.com,pctreload1.com,megaup.net,elixx.*##+js(abort-current-inline-script.js, I833)
+
+
+! This is a part of the URL used by an Indian ISP called BSNL
+! to inject ads into HTTP pages
+! Example URL: http://117.254.84.212:3000/getjs?nadipdata=%7B%22url%22%3A%22%2F%22%2C%22referer%22%3A%22%22%2C%22host%22%3A%22h2020.myspecies.info%22%2C%22categories%22%3A%5B100%5D%2C%22reputations%22%3A%5B1%5D%2C%22nadipdomain%22%3A1%2C%22policyid%22%3A0%7D&screenheight=1120&screenwidth=1792&tm=1603925840327&lib=true&method2=true
+!
+/getjs?nadipdata=$third-party
+!
+
+asacdn.com
