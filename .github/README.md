@@ -1,4 +1,4 @@
-# Stop dumb ads and BSNL injection
+# Stop stupid intrusive ads and BSNL injection
 
 Filters for blocking pop-ups and anti-adblock bypass and also BSNL injecting ads into your sessions (which should be illegal but sigh).
 
