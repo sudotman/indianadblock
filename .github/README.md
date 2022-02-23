@@ -21,6 +21,12 @@ You can add this list to uBlock origin using this button — <a href="https://su
 
 Scroll to the end for a detailed guide on how to use it.
 
+## How blocking looks:
+![demo image](../demo.png)
+
+*Using a default uBlock template
+
+
 ## License<sup>[ Details](https://github.com/sudotman/indianadblock/blob/master/LICENSE.md)</sup>
 
 MIT License.
